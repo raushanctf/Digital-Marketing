@@ -45,14 +45,14 @@ Marketing:- Communicating the value of a product, Service, or brand to customers
 # Philip Kotter-"( the science and art of exploring father of creating and delivering -marketing)" 
 
 # 📌What is Marketing Strategy
-👉 Environment
-👉 Business
-👉 Customers
-👉 Competitors
+* Environment
+* Business
+* Customers
+* Competitors
 
 # 📌Digital Marketing Strategy
 🧁 Five PS
-👉 Product:- Identification, Selection and Development 
+👉 Product:- Identification, Selection, and Development. 
 👉 Price:- Investment and profit
 👉 Place:- Distribution
 👉 Promotion:- Marketing
