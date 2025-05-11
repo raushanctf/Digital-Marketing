@@ -44,7 +44,7 @@ Marketing:- Communicating the value of a product, Service, or brand to customers
 
 # Philip Kotter-"( the science and art of exploring father of creating and delivering -marketing)" 
 
-# 📌What is Marketing Strategy
+# 🎯What is Marketing Strategy
 * Environment
 * Business
 * Customers
@@ -71,13 +71,13 @@ Marketing:- Communicating the value of a product, Service, or brand to customers
 * Conversion(Sell/Buy)
 
 # 🎯Benefits of Digital Marketing 
-@ Identify your Target Audience
-@ Set your Objective
-👉 Decide upon the marketing mix
-👉 Agree on a budget
-👉 Action Planning
-👉  Measure your success
-👉  Global Reach
+* Identify your Target Audience
+* Set your Objective
+* Decide upon the marketing mix
+* Agree on a budget
+* Action Planning
+* Measure your success
+* Global Reach
 
 
 
