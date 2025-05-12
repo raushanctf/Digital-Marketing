@@ -1,10 +1,10 @@
-# Digital-Marketing
+# 🕹️Digital-Marketing
 
 Marketing:- Communicating the value of a product, Service, or brand to customers.
 
-# What is Digital Marketing?
+# 💊What is Digital Marketing?
 * Digital marketing promotes products, services, or brands using digital channels such as the internet, mobile devices, social media, search engines, and email.
-* Can be through Non-internet channels like TV, Radio, Sms etc
+* Can be through Non-internet channels like TV, Radio, Sms, etc
 
 ![digital](https://github.com/user-attachments/assets/f52675ec-1838-4ad7-ba32-b10e686982bf)
 
@@ -13,7 +13,7 @@ Marketing:- Communicating the value of a product, Service, or brand to customers
   * Improving a website’s visibility on search engines like Google.
 
 👉 Search Engine Marketing (SEM):
-  * Running paid ads (like Google Ads) to appear on search results.
+  * Run paid ads (like Google Ads) to appear in search results.
 
 👉 Content Marketing:
   * Creating and sharing valuable content (blogs, videos, infographics) to attract and engage audiences.
