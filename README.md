@@ -79,5 +79,38 @@ Marketing:- Communicating the value of a product, Service, or brand to customers
 * Measure your success
 * Global Reach
 
+# Websites
+* A website is a collection of related web pages that are accessible over the internet under a single domain name, like:
+ www.google.com
+ www.github.com
+
+# 🧱 Basic Components of a Website:
+Component	Description
+* Domain Name: The address of the website (e.g., example.com)
+* Web Pages: Individual documents (usually HTML) that make up the site
+* Web Server: A computer that stores and serves the website content to users
+* Hosting:	the service that stores your website files and makes them accessible online
+* Frontend: What users see – design, layout, images (HTML, CSS, JavaScript)
+* Backend: The behind-the-scenes – databases, logic, server (Java, PHP, Python, etc.)
+
+# 📱 Types of Websites:
+
+👉 Static Website
+* Simple, fixed content
+* No interaction or database
+* Built using only HTML/CSS
+
+👉 Dynamic Website
+* Content changes based on user interaction
+* Uses databases, server-side scripting
+
+👉 E-commerce Website
+* Online store for buying/selling (e.g., Amazon)
+* Blog or Portfolio Website
+* For individuals to share ideas or showcase work
+
+👉 Social Media Website
+* Platforms like Facebook, Twitter
+
 
 
