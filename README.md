@@ -321,3 +321,50 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 3- Technical SEO: Improves site structure and crawlability, Speed, mobile-friendliness, sitemap, and robots.txt
 4- Local SEO:	targets a local audience, Google My Business, and local keywords.
 5- E-commerce SEO:	Specific to online stores: Product titles, schema, filters, UX
+
+📈 Major SEO Ranking Factors (According to Google)
+**Factor	Details**
+1- High-Quality Content: Useful, original, well-written content with relevant keywords
+2- Backlinks: Other reputable sites linking to your website
+3- Mobile-Friendliness	Responsive design that works on all devices
+4- Page Speed: Fast-loading pages improve user experience
+5- User Experience (UX): Easy navigation, low bounce rate, engagement
+6- Keyword Optimization	Using target keywords in the right places (title, URL, headings, etc.)
+7- Secure Site (HTTPS): Secure connection with an SSL certificate
+8- Core Web Vitals: Google's metrics on load time, interactivity, and visual stability
+
+🛠️ Basic SEO Checklist
+✅ On-Page SEO:
+1- Use target keywords in title, meta description, headings (H1, H2)
+2- Write unique, helpful content
+3- Use SEO-friendly URLs (yourdomain.com/best-seo-tips)
+4- Add alt text to images
+5- Internal linking to other pages
+6- Use schema markup if applicable
+
+✅ Off-Page SEO:
+1- Get backlinks from trusted websites
+2- Share content on social media
+3- Engage with influencers or blogs in your niche
+
+✅ Technical SEO:
+1- Submit the XML sitemap in Google Search Console
+2- Use robots.txt to control crawler access
+3- Make the site mobile-friendly
+4- Improve site speed (use tools like PageSpeed Insights)
+5- Fix crawl errors (404s, broken links)
+
+✅ Local SEO (for businesses):
+1- Create and optimize Google Business Profile
+2- Get reviews and ratings
+3- Add location-based keywords
+
+# 🛠️ Tools Used in SEO
+**Tool	Purpose**
+* Google Search Console: Monitor search performance and errors
+* Google Analytics	tracks user behavior and traffic sources
+* Ahrefs / SEMrush	Keyword research, backlinks, and audits
+* Ubersuggest	Keyword ideas and basic site analysis
+* Yoast SEO (WordPress)	On-page SEO plugin
+* PageSpeed Insights	: Test and improve speed
+* Screaming Frog	Technical site audits
