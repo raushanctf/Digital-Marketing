@@ -151,11 +151,11 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * WordPress Hosting:	Optimized for WordPress websites, WordPress users
 
 ✅ Hosting Providers:
-** Bluehost
-** Hostinger
-** SiteGround
-** A2 Hosting
-** DigitalOcean (for cloud/VPS)
+* Bluehost [bluehost]
+* Hostinger
+* SiteGround
+* A2 Hosting
+* DigitalOcean (for cloud/VPS)
 
 # 🔧 What Do You Need to Create a Website?
 🧩 Essentials:
@@ -171,4 +171,4 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * Connect the Domain to hosting using DNS settings.
 * Upload Website Files to your hosting account (via File Manager or FTP).
 * Test Your Website by visiting your domain in a browser.
-* (Optional) Install an SSL certificate for secure https:// connection.
+* (Optional) Install an SSL certificate for a secure https:// connection.
