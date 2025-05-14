@@ -211,13 +211,13 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * AI and data-driven decisions
 * Decentralization and blockchain
 
-🛠 Technologies:
+🛠 **Technologies:**
 * AI, Machine Learning
 * Blockchain, Smart Contracts
 * RDF, OWL, SPARQL (semantic tech)
 * Decentralized apps (dApps)
 
-📌 Example:
+📌 **Example:**
 * Cryptocurrency platforms, AI-powered apps, NFT marketplaces, and Voice assistants (like Siri)
 
 🔮 4. **Web 4.0 – The Intelligent/Connected Web (Future)**
@@ -267,7 +267,7 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 ⚠️ The latest version is Google Analytics 4 (GA4), which replaced Universal Analytics.
 
 # 🔍 Key Features of Google Analytics:
-Feature: What It Does
+`Feature: What It Does`
 * User Reports	show `who is visiting (location, device, browser, etc.).`
 * Traffic Sources	`tells you where your traffic comes from (search, social, referral, direct).`
 * Real-time Data	`Displays what’s happening on your site right now.`
@@ -283,7 +283,7 @@ Feature: What It Does
 * What device (mobile, desktop) do users use
 * Which campaigns bring traffic (Ads, email, social)
 
-🔧 `What You Need to Set Them Up`
+# 🔧 What You Need to Set Them Up
 # 📌 Google Search Console:
 *Go to: https://search.google.com/search-console
 * Add your domain or URL prefix
