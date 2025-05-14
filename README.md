@@ -299,20 +299,20 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 
 # 🌐 What is SEO?
 * SEO (Search Engine Optimization) is the process of improving a website’s visibility in organic (non-paid) search results on search engines like Google, Bing, or Yahoo.
-🎯 Goal: To increase quality traffic to your website by ranking higher in search results for relevant keywords.
+🎯 1- Goal: To increase quality traffic to your website by ranking higher in search results for relevant keywords.
 
 🧠 Why SEO is Important
-`
-💰 Free Traffic: You don’t pay for clicks, unlike ads.
-🔍 Increased Visibility: Higher rank = more people see your site.
-👥 Better User Experience: SEO improves site structure and content.
-📈 More Leads & Sales: More visibility means more business opportunities.
-🌎 Global Reach: Rank anywhere in the world, 24/7.`
+
+💰 * Free Traffic: You don’t pay for clicks, unlike ads.
+🔍 * Increased Visibility: Higher rank = more people see your site.
+👥 * Better User Experience: SEO improves site structure and content.
+📈 * More Leads & Sales: More visibility means more business opportunities.
+🌎 * Global Reach: Rank anywhere in the world, 24/7.
 
 # 🔍 How Search Engines Work (Basic Process)
-`Crawling – Bots scan websites and collect information.
-Indexing – Data is stored and organized in a search engine’s database.
-Ranking – Pages are ranked based on relevance and quality for a user's query.`
+* Crawling – Bots scan websites and collect information.
+* Indexing – Data is stored and organized in a search engine’s database.
+* Ranking – Pages are ranked based on relevance and quality for a user's query.
 
 # 📂 Types of SEO
 **Type	Description	Focus Area**
