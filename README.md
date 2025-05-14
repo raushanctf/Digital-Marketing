@@ -1,6 +1,6 @@
 # 🕹️Digital-Marketing
 
-Marketing:- Communicating the value of a product, Service, or brand to customers.
+**Marketing:-** Communicating the value of a product, Service, or brand to customers.
 
 # 💊What is Digital Marketing?
 * Digital marketing promotes products, services, or brands using digital channels such as the internet, mobile devices, social media, search engines, and email.
@@ -297,3 +297,27 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * Start collecting and viewing data in real-time
 
 
+# 🌐 What is SEO?
+* SEO (Search Engine Optimization) is the process of improving a website’s visibility in organic (non-paid) search results on search engines like Google, Bing, or Yahoo.
+🎯 Goal: To increase quality traffic to your website by ranking higher in search results for relevant keywords.
+
+🧠 Why SEO is Important
+`
+💰 Free Traffic: You don’t pay for clicks, unlike ads.
+🔍 Increased Visibility: Higher rank = more people see your site.
+👥 Better User Experience: SEO improves site structure and content.
+📈 More Leads & Sales: More visibility means more business opportunities.
+🌎 Global Reach: Rank anywhere in the world, 24/7.`
+
+# 🔍 How Search Engines Work (Basic Process)
+`Crawling – Bots scan websites and collect information.
+Indexing – Data is stored and organized in a search engine’s database.
+Ranking – Pages are ranked based on relevance and quality for a user's query.`
+
+# 📂 Types of SEO
+**Type	Description	Focus Area**
+1- On-Page SEO: `Optimizing elements on the website: Content, keywords, titles, meta tags
+2- Off-Page SEO: Activities outside the website: Backlinks, social sharing, influencer reach
+3- Technical SEO: Improves site structure and crawlability, Speed, mobile-friendliness, sitemap, and robots.txt
+4- Local SEO:	targets a local audience, Google My Business, and local keywords.
+5- E-commerce SEO:	Specific to online stores: Product titles, schema, filters, UX
