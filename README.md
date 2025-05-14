@@ -244,7 +244,7 @@ Search Engine	Website	Description
 🔍 Key Features of Search Console:
 `Feature:`                     `What It Does`
 * Performance Reports	       `show clicks, impressions, CTR, and ranking for keywords.`
-* URL Inspection             `Tool	Checks if a URL is indexed and how Google sees it.`
+* URL Inspection Tool	       `Checks if a URL is indexed and how Google sees it.`
 * Coverage Reports           `displays indexing status and errors (404s, redirects, etc.).`
 * Sitemap Submission         `lets you submit XML sitemaps to help Google crawl your site.`
 * Mobile Usability 	         `Detects mobile-friendly issues.`
@@ -254,37 +254,33 @@ Search Engine	Website	Description
 * Links Report               `displays backlinks and internal link structure.`
 
 🧠 Why Use Search Console?
-Improve visibility in Google Search
-
-Fix indexing issues
-
-Monitor keyword performance
-
-Identify security problems
-
-Submit updated content quickly
+* Improve visibility in Google Search
+* Fix indexing issues
+* Monitor keyword performance
+* Identify security problems
+* Submit updated content quickly
 
 ✅ 2. Google Analytics (GA)
 📌 What is it?
-Google Analytics is a free web analytics tool that provides detailed data about how users interact with your website.
+* Google Analytics is a free web analytics tool that provides detailed data about how users interact with your website.
 
 ⚠️ The latest version is Google Analytics 4 (GA4), which replaced Universal Analytics.
 
 🔍 Key Features of Google Analytics:
 Feature: What It Does
-User Reports	show who is visiting (location, device, browser, etc.).
-Traffic Sources	tells you where your traffic comes from (search, social, referral, direct).
-Real-time Data	Displays what’s happening on your site right now.
-Engagement Metrics: Tracks time on site, pages per session, and bounce rate.
-Conversion Tracking	tracks actions like purchases, form submissions, and downloads.
-Event Tracking	Measures user interactions (clicks, video plays, scrolls).
-Funnels & Goals: Visualize user journeys and track desired actions.
+* User Reports	show who is visiting (location, device, browser, etc.).
+* Traffic Sources	tells you where your traffic comes from (search, social, referral, direct).
+* Real-time Data	Displays what’s happening on your site right now.
+* Engagement Metrics: Tracks time on site, pages per session, and bounce rate.
+* Conversion Tracking	tracks actions like purchases, form submissions, and downloads.
+* Event Tracking	Measures user interactions (clicks, video plays, scrolls).
+* Funnels & Goals: Visualize user journeys and track desired actions.
 
 📊 Example Data You Can Get:
-How many users visited your site in a day/week/month
-Which page is most popular
-What countries are visitors from
-What device (mobile, desktop) do users use
-Which campaigns bring traffic (Ads, email, social)
+* How many users visited your site in a day/week/month
+* Which page is most popular
+* What countries are visitors from
+* What device (mobile, desktop) do users use
+* Which campaigns bring traffic (Ads, email, social)
 
 
