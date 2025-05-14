@@ -230,18 +230,18 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 📌 Possible Trends:
 * Smart cities, AI agents, brain-computer interfaces, Metaverse
 
-🌍 Top Global Search Engines
-Search Engine	Website	Description
+# 🌍 Top Global Search Engines
+👉 Search Engine	Website	Description
 * Google	[google.com]	🌐 The most popular search engine globally. Offers web, image, video, and map search.
 * Bing	[bing.com]	Microsoft's search engine. Integrated with Windows and Microsoft Edge.
 * Yahoo!	[Yahoo.com]	Powered by Bing, also a web portal for news, email, and more.
 * DuckDuckGo	[duckduckgo.com]	focuses on privacy and does not track users.
 
-✅ 1. Google Search Console (GSC)
+# ✅ 1. Google Search Console (GSC)
 📌 What is it?
 * Search Console is a free tool by Google that helps website owners monitor, maintain, and troubleshoot their site's presence in Google Search results.
 
-🔍 Key Features of Search Console:
+# 🔍 Key Features of Search Console:
 `Feature:`                     `What It Does`
 * Performance Reports	       `show clicks, impressions, CTR, and ranking for keywords.`
 * URL Inspection Tool	       `Checks if a URL is indexed and how Google sees it.`
@@ -253,34 +253,47 @@ Search Engine	Website	Description
 * Core Web Vitals            `provides speed and user experience metrics.`
 * Links Report               `displays backlinks and internal link structure.`
 
-🧠 Why Use Search Console?
+# 🧠 Why Use Search Console?
 * Improve visibility in Google Search
 * Fix indexing issues
 * Monitor keyword performance
 * Identify security problems
 * Submit updated content quickly
 
-✅ 2. Google Analytics (GA)
+# ✅ 2. Google Analytics (GA)
 📌 What is it?
 * Google Analytics is a free web analytics tool that provides detailed data about how users interact with your website.
 
 ⚠️ The latest version is Google Analytics 4 (GA4), which replaced Universal Analytics.
 
-🔍 Key Features of Google Analytics:
+# 🔍 Key Features of Google Analytics:
 Feature: What It Does
-* User Reports	show who is visiting (location, device, browser, etc.).
-* Traffic Sources	tells you where your traffic comes from (search, social, referral, direct).
-* Real-time Data	Displays what’s happening on your site right now.
-* Engagement Metrics: Tracks time on site, pages per session, and bounce rate.
-* Conversion Tracking	tracks actions like purchases, form submissions, and downloads.
-* Event Tracking	Measures user interactions (clicks, video plays, scrolls).
-* Funnels & Goals: Visualize user journeys and track desired actions.
+* User Reports	show `who is visiting (location, device, browser, etc.).`
+* Traffic Sources	`tells you where your traffic comes from (search, social, referral, direct).`
+* Real-time Data	`Displays what’s happening on your site right now.`
+* Engagement Metrics: `Tracks time on site, pages per session, and bounce rate.`
+* Conversion Tracking	`tracks actions like purchases, form submissions, and downloads.`
+* Event Tracking	`Measures user interactions (clicks, video plays, scrolls).`
+* Funnels & Goals: `Visualize user journeys and track desired actions.`
 
-📊 Example Data You Can Get:
+# 📊 Example Data You Can Get:
 * How many users visited your site in a day/week/month
 * Which page is most popular
 * What countries are visitors from
 * What device (mobile, desktop) do users use
 * Which campaigns bring traffic (Ads, email, social)
+
+🔧 `What You Need to Set Them Up`
+# 📌 Google Search Console:
+*Go to: https://search.google.com/search-console
+* Add your domain or URL prefix
+* Verify ownership (via DNS, HTML file, meta tag, etc.)
+* Submit the sitemap and start using features
+
+# 📌 Google Analytics:
+* Go to: https://analytics.google.com
+* Create a new GA4 property
+* Add the tracking tag to your website (or use Google Tag Manager)
+* Start collecting and viewing data in real-time
 
 
