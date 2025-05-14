@@ -112,5 +112,63 @@ Component	Description
 👉 Social Media Website
 * Platforms like Facebook, Twitter
 
+# 🌐What is a Domain?
+A domain is the name or address of your website that users type into their browser to visit your site.
 
+✅ Example:
+* www.google.com
+* www.yourbusinessname.com
 
+✅ How it works:
+* It's like the address of your house—it tells people where to go to reach you online.
+* It's linked to your website's IP address (a string of numbers like 192.168.1.1), but easier to remember.
+
+✅ Types of Domains:
+* Top-Level Domains (TLDs): .com, .net, .org, .edu, .gov
+* Country Code TLDs: .in, .uk, .us, .ca
+* Custom TLDs: .tech, .shop, .online, etc.
+
+✅ Domain Name Providers:
+* GoDaddy
+* Namecheap
+* Google Domains
+* Hostinger
+* Bluehost
+
+🖥️ 2. What is Hosting?
+Hosting is the space on a server (computer) where your website’s files (HTML, CSS, images, databases) are stored and served to visitors.
+
+✅ How it works:
+* It's like the house where your website lives.
+* When someone visits your domain, the browser connects to the web hosting server and loads the files to show the website.
+
+✅ Types of Hosting:
+* Type	Description	Best For
+* Shared Hosting: Multiple websites share one server. Beginners, small websites
+* VPS Hosting: Private section of a shared server. Growing websites need more control
+* Dedicated Hosting	Entire server for one website	H. High-traffic sites
+* Cloud Hosting:	Website runs on multiple connected servers	Scalable, flexible performance
+* WordPress Hosting:	Optimized for WordPress websites, WordPress users
+
+✅ Hosting Providers:
+** Bluehost
+** Hostinger
+** SiteGround
+** A2 Hosting
+** DigitalOcean (for cloud/VPS)
+
+# 🔧 What Do You Need to Create a Website?
+🧩 Essentials:
+* Domain Name: The website’s address (e.g., yourname.com)
+* Web Hosting	Stores website files and serves them online
+* Website Files: HTML, CSS, JavaScript, images, etc.
+* Website Builder / CMS: Optional tool to build a website (e.g., WordPress)
+* SSL Certificate	Encrypts data, adds "https" and padlock symbol
+
+# 🛠️ Steps to Make a Website Live:
+* Buy a Domain from a domain registrar.
+* You can purchase hosting from a hosting provider.
+* Connect the Domain to hosting using DNS settings.
+* Upload Website Files to your hosting account (via File Manager or FTP).
+* Test Your Website by visiting your domain in a browser.
+* (Optional) Install an SSL certificate for secure https:// connection.
