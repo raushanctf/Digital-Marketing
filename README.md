@@ -243,7 +243,7 @@ Search Engine	Website	Description
 
 🔍 Key Features of Search Console:
 `Feature:`                     `What It Does`
-* Performance                `Reports	show clicks, impressions, CTR, and ranking for keywords.`
+* Performance Reports	       `show clicks, impressions, CTR, and ranking for keywords.`
 * URL Inspection             `Tool	Checks if a URL is indexed and how Google sees it.`
 * Coverage Reports           `displays indexing status and errors (404s, redirects, etc.).`
 * Sitemap Submission         `lets you submit XML sitemaps to help Google crawl your site.`
