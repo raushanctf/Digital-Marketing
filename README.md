@@ -243,15 +243,15 @@ Search Engine	Website	Description
 
 🔍 Key Features of Search Console:
 `Feature:`                     `What It Does`
-Performance Reports	show clicks, impressions, CTR, and ranking for keywords.
-URL Inspection Tool	Checks if a URL is indexed and how Google sees it.
-Coverage Reports	displays indexing status and errors (404s, redirects, etc.).
-Sitemap Submission	lets you submit XML sitemaps to help Google crawl your site.
-Mobile Usability	Detects mobile-friendly issues.
-Security Issues: Alerts if your site has malware or is hacked.
-Manual Actions	Shows if Google has penalized your site for violating its guidelines.
-Core Web Vitals	provides speed and user experience metrics.
-Links Report	Displays backlinks and internal link structure.
+* Performance                Reports	show clicks, impressions, CTR, and ranking for keywords.
+* URL Inspection             Tool	Checks if a URL is indexed and how Google sees it.
+* Coverage Reports           displays indexing status and errors (404s, redirects, etc.).
+* Sitemap Submission         lets you submit XML sitemaps to help Google crawl your site.
+* Mobile Usability 	         Detects mobile-friendly issues.
+* Security Issues:           Alerts if your site has malware or is hacked.
+* Manual Actions	            Shows if Google has penalized your site for violating its guidelines.
+* Core Web Vitals            provides speed and user experience metrics.
+* Links Report               displays backlinks and internal link structure.
 
 🧠 Why Use Search Console?
 Improve visibility in Google Search
@@ -271,7 +271,7 @@ Google Analytics is a free web analytics tool that provides detailed data about 
 ⚠️ The latest version is Google Analytics 4 (GA4), which replaced Universal Analytics.
 
 🔍 Key Features of Google Analytics:
-Feature	: What It Does
+Feature: What It Does
 User Reports	show who is visiting (location, device, browser, etc.).
 Traffic Sources	tells you where your traffic comes from (search, social, referral, direct).
 Real-time Data	Displays what’s happening on your site right now.
