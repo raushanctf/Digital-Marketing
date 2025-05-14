@@ -151,7 +151,7 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * WordPress Hosting:	Optimized for WordPress websites, WordPress users
 
 ✅ Hosting Providers:
-* Bluehost [bluehost]
+* Bluehost [https://www.bluehost.in/]
 * Hostinger
 * SiteGround
 * A2 Hosting
@@ -172,3 +172,119 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * Upload Website Files to your hosting account (via File Manager or FTP).
 * Test Your Website by visiting your domain in a browser.
 * (Optional) Install an SSL certificate for a secure https:// connection.
+
+🌍 Evolution of the World Wide Web
+🔹 1. **Web 1.0 – The Static Web (1990–2004)**
+✅ Key Features:
+* Read-only content
+* Static HTML pages
+* Very limited interactivity
+* Users were just consumers of content
+
+🛠 Technologies:
+* HTML
+* HTTP
+* Web browsers (e.g., Netscape)
+
+📌 Example:
+* Early websites like Yahoo Directory, Geocities, and static company pages
+
+🔹 2. **Web 2.0 – The Social Web (2004–2015)**
+✅ Key Features:
+* Read-write web
+* User-generated content
+* Interactivity, collaboration, and sharing
+* Rise of social media, blogs, and dynamic websites
+
+🛠 Technologies:
+* JavaScript, AJAX, PHP, MySQL
+* CMS (WordPress, Blogger)
+* APIs, mobile-responsive designs
+
+📌 Example:
+* Facebook, YouTube, Wikipedia, Twitter
+
+🔹 3. **Web 3.0 – The Semantic Web (2015–present)**
+✅ Key Features:
+* Read-write-execute
+* Machine-readable data
+* AI and data-driven decisions
+* Decentralization and blockchain
+
+🛠 Technologies:
+* AI, Machine Learning
+* Blockchain, Smart Contracts
+* RDF, OWL, SPARQL (semantic tech)
+* Decentralized apps (dApps)
+
+📌 Example:
+* Cryptocurrency platforms, AI-powered apps, NFT marketplaces, and Voice assistants (like Siri)
+
+🔮 4. **Web 4.0 – The Intelligent/Connected Web (Future)**
+✅ Predicted Features:
+* Full AI integration
+* Ubiquitous connectivity (IoT)
+* Seamless interaction between humans and machines
+* Virtual/Augmented reality experiences
+
+📌 Possible Trends:
+* Smart cities, AI agents, brain-computer interfaces, Metaverse
+
+🌍 Top Global Search Engines
+Search Engine	Website	Description
+* Google	[google.com]	🌐 The most popular search engine globally. Offers web, image, video, and map search.
+* Bing	[bing.com]	Microsoft's search engine. Integrated with Windows and Microsoft Edge.
+* Yahoo!	[Yahoo.com]	Powered by Bing, also a web portal for news, email, and more.
+* DuckDuckGo	[duckduckgo.com]	focuses on privacy and does not track users.
+
+✅ 1. Google Search Console (GSC)
+📌 What is it?
+* Search Console is a free tool by Google that helps website owners monitor, maintain, and troubleshoot their site's presence in Google Search results.
+
+🔍 Key Features of Search Console:
+`Feature:`                     `What It Does`
+Performance Reports	show clicks, impressions, CTR, and ranking for keywords.
+URL Inspection Tool	Checks if a URL is indexed and how Google sees it.
+Coverage Reports	displays indexing status and errors (404s, redirects, etc.).
+Sitemap Submission	lets you submit XML sitemaps to help Google crawl your site.
+Mobile Usability	Detects mobile-friendly issues.
+Security Issues: Alerts if your site has malware or is hacked.
+Manual Actions	Shows if Google has penalized your site for violating its guidelines.
+Core Web Vitals	provides speed and user experience metrics.
+Links Report	Displays backlinks and internal link structure.
+
+🧠 Why Use Search Console?
+Improve visibility in Google Search
+
+Fix indexing issues
+
+Monitor keyword performance
+
+Identify security problems
+
+Submit updated content quickly
+
+✅ 2. Google Analytics (GA)
+📌 What is it?
+Google Analytics is a free web analytics tool that provides detailed data about how users interact with your website.
+
+⚠️ The latest version is Google Analytics 4 (GA4), which replaced Universal Analytics.
+
+🔍 Key Features of Google Analytics:
+Feature	: What It Does
+User Reports	show who is visiting (location, device, browser, etc.).
+Traffic Sources	tells you where your traffic comes from (search, social, referral, direct).
+Real-time Data	Displays what’s happening on your site right now.
+Engagement Metrics: Tracks time on site, pages per session, and bounce rate.
+Conversion Tracking	tracks actions like purchases, form submissions, and downloads.
+Event Tracking	Measures user interactions (clicks, video plays, scrolls).
+Funnels & Goals: Visualize user journeys and track desired actions.
+
+📊 Example Data You Can Get:
+How many users visited your site in a day/week/month
+Which page is most popular
+What countries are visitors from
+What device (mobile, desktop) do users use
+Which campaigns bring traffic (Ads, email, social)
+
+
