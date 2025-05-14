@@ -243,15 +243,15 @@ Search Engine	Website	Description
 
 🔍 Key Features of Search Console:
 `Feature:`                     `What It Does`
-* Performance                Reports	show clicks, impressions, CTR, and ranking for keywords.
-* URL Inspection             Tool	Checks if a URL is indexed and how Google sees it.
-* Coverage Reports           displays indexing status and errors (404s, redirects, etc.).
-* Sitemap Submission         lets you submit XML sitemaps to help Google crawl your site.
-* Mobile Usability 	         Detects mobile-friendly issues.
-* Security Issues:           Alerts if your site has malware or is hacked.
-* Manual Actions	            Shows if Google has penalized your site for violating its guidelines.
-* Core Web Vitals            provides speed and user experience metrics.
-* Links Report               displays backlinks and internal link structure.
+* Performance                `Reports	show clicks, impressions, CTR, and ranking for keywords.`
+* URL Inspection             `Tool	Checks if a URL is indexed and how Google sees it.`
+* Coverage Reports           `displays indexing status and errors (404s, redirects, etc.).`
+* Sitemap Submission         `lets you submit XML sitemaps to help Google crawl your site.`
+* Mobile Usability 	         `Detects mobile-friendly issues.`
+* Security Issues:           `Alerts if your site has malware or is hacked.`
+* Manual Actions	            `Shows if Google has penalized your site for violating its guidelines.`
+* Core Web Vitals            `provides speed and user experience metrics.`
+* Links Report               `displays backlinks and internal link structure.`
 
 🧠 Why Use Search Console?
 Improve visibility in Google Search
