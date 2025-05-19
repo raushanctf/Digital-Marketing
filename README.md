@@ -412,11 +412,11 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 💊Use Keyword Research Tools
 👉Find real search data using tools like:
 
-`Free Tools	                          Paid Tools
-Google Keyword                       Planner	SEMrush
-Ubersuggest	                         Ahrefs
-Google Trends	                       Moz Keyword Explorer
-AnswerThePublic                     	KWFinder`
+`Free Tools	                           Paid Tools
+Google Keyword                       * Planner	SEMrush
+Ubersuggest	                         * Ahrefs
+Google Trends	                       * Moz Keyword Explorer
+AnswerThePublic                     	* KWFinder`
 
 "Apply Keywords in Marketing Strategy"
 * SEO content (blogs, pages)
@@ -424,3 +424,77 @@ AnswerThePublic                     	KWFinder`
 * Social media posts
 * Product listings and descriptions
 * Website headings and meta tags
+
+# 🌐 Off-Page Optimization in SEO — Full Explanation
+* Off-page optimization refers to all your activities outside your website to improve its search engine rankings, visibility, and credibility.
+
+✅ What We Do in Off-Page Optimization
+1. Backlink Building (Link Building)
+Getting high-quality backlinks from other websites is the core of off-page SEO.
+
+🔗 Backlinks = "Votes of confidence" from other websites.
+
+👉 Techniques:
+* Guest posting
+* Business directory submissions
+* Forum and blog commenting
+* Article submissions
+* Resource link building
+* Broken link building
+* Q&A sites (e.g., Quora, Stack Overflow)
+
+**🔍 Crawlers of Reputed Search Engines**
+
+1. Google- 	Googlebot	Crawls, Googlebot-Mobile,	Googlebot-Image,	Googlebot-Video
+2. Bing (Microsoft)- 	Bingbot,	AdIdxBot
+
+**🛡️ Why Do Crawlers Matter in SEO?**
+* They index your site’s content for search engines.
+* They respect your robots.txt and meta robots directives.
+* Knowing bots helps you monitor crawler activity using analytics or server logs.
+
+💊**Content Pilagrism Tools**
+* duplichecker.com
+* copyspace.com
+* smallseotools.com
+* spinbot.com
+  
+👉 Articles Write tools
+* Ezinearticles.com
+
+👉 Seo Rank check tools
+* fatrank
+* similarweb extension
+
+# 📢 Google Ads (PPC) – Explained
+* Google Ads is Google’s online advertising platform that allows businesses to display ads on Google Search, YouTube, and across the Google Display Network. It works mainly on a PPC (Pay-Per-Click) model.
+
+💡 What is PPC (Pay-Per-Click)?
+* In PPC advertising, you pay only when someone clicks on your ad. It’s a way of buying visits to your website, rather than earning them organically.
+
+✅ **How Google Ads PPC Works**
+Choose Keywords:
+You select keywords that people might search for (e.g., “buy sweets online”).
+
+1. Create Ads:
+* Write a headline, description, and add a link to your landing page.
+
+2. Bid on Keywords:
+* You set a maximum bid you're willing to pay per click.
+
+3. Ad Auction:
+* When someone searches, Google runs an auction and decides which ads to show based on:
+* Your bid
+* Your ad quality score
+* Relevance and landing page experience
+
+5. Pay Only for Clicks:
+* You’re only charged when someone clicks on your ad, not for impressions.
+
+**🔍 Types of Google Ads Campaigns**
+* **Search Ads:**	Google Search results (text ads), Leads, traffic, sales
+* **Display Ads:** Banner ads on websites/apps, Brand awareness, retargeting
+* **Video Ads:** YouTube	Brand engagement, storytelling
+* **Shopping Ads:**	Google Shopping (product listings), E-commerce, and product-based businesses
+* **App Promotion Ads:**	Search, YouTube, Display, Driving app installs
+* **Performance Max:** All Google channels (auto-optimized)	All-in-one campaigns
