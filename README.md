@@ -464,17 +464,17 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 
 👉 Seo Rank check tools
 * fatrank
-* similarweb extension
+* Similarweb extension
 
-# 📢 Google Ads (PPC) – Explained
+# 📢 Google Ads – Explained
 * Google Ads is Google’s online advertising platform that allows businesses to display ads on Google Search, YouTube, and across the Google Display Network. It works mainly on a PPC (Pay-Per-Click) model.
 
 💡 What is PPC (Pay-Per-Click)?
 * In PPC advertising, you pay only when someone clicks on your ad. It’s a way of buying visits to your website, rather than earning them organically.
 
 ✅ **How Google Ads PPC Works**
-Choose Keywords:
-You select keywords that people might search for (e.g., “buy sweets online”).
+👉 Choose Keywords:
+* You select keywords that people might search for (e.g., “buy sweets online”).
 
 1. Create Ads:
 * Write a headline, description, and add a link to your landing page.
@@ -498,3 +498,42 @@ You select keywords that people might search for (e.g., “buy sweets online”)
 * **Shopping Ads:**	Google Shopping (product listings), E-commerce, and product-based businesses
 * **App Promotion Ads:**	Search, YouTube, Display, Driving app installs
 * **Performance Max:** All Google channels (auto-optimized)	All-in-one campaigns
+
+**🔧 Tools to Use with Google Ads**
+* Google Keyword Planner (find keywords)
+* Google Analytics (track results)
+* Google Tag Manager (manage tags/conversions)
+* Google Merchant Center (for Shopping ads)
+
+**💰 Bidding System in Google Ads**
+* The Google Ads bidding system determines how much you pay for clicks, impressions, or conversions. You set bids to tell Google how much you’re willing to pay for a desired action (click, conversion, etc.).
+
+**Google then uses this information during the ad auction to decide:**
+* Whether your ad will show
+* In which position
+* And at what cost
+
+`* CPM Model:-(Cost per mile and thousand impressions): The amount you pay for 1,000 ad impressions (views).`
+`* CPC Model:- (Cost per click): You set maximum bids yourself for each keyword.`
+`* CPA Model:- (Cost per Acquisition or action): Google sets bids to get as many conversions as possible at your target cost per action.`
+`* CPV Model:- (Cost per view): The amount you pay each time someone views your video ad.`
+`* CPI Model:- (cost per installation): The amount you pay when a user installs your mobile app after clicking your ad.`
+
+**🧱 Structure of Google Ads (Hierarchical Format)**
+* Google Ads is organized in three main levels:
+
+1. 🔲 Account
+* This is your overall Google Ads account.
+* Linked to your email, billing, and business settings.
+* Each advertiser has one or more ad accounts.
+
+2. 📂 Campaigns
+* A campaign contains one or more ad groups.
+* You define:
+* Goal (e.g., sales, leads, traffic)
+* Budget
+* Bidding strategy
+* Network (Search, Display, YouTube, Shopping)
+* Location targeting
+* Start/end dates
+* Ad scheduling
