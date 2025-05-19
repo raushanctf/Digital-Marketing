@@ -383,7 +383,7 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 # 💸 2. Inorganic SEO (Paid Search / SEM)
 `Inorganic SEO refers to paid methods (ads) used to appear in search results, commonly known as Search Engine Marketing (SEM) or PPC (Pay Per Click)`
 
-📌 It’s "inorganic" because you pay to appear at the top of search results instantly.
+📌 It’s "inorganic" because you pay to instantly appear at the top of search results.
 
 📈 Benefits of Inorganic SEO:
 * Instant visibility
@@ -396,3 +396,31 @@ Hosting is the space on a server (computer) where your website’s files (HTML, 
 * Use inorganic SEO for quick results, testing, or product launches.
 💡 Most successful businesses use a mix of both!
 
+# ✅ What is Keyword Analysis?
+ Keyword analysis identifies the search terms (keywords) that your target audience uses when looking for products, services, or information related to your business.
+
+`📌 It helps you understand user intent and optimize your content, ads, and strategy to reach the right audience`
+
+"🧠 Why is Keyword Analysis Important?"
+* Boosts SEO performance
+* Helps target relevant traffic
+* Improves conversion rates
+* Reduces ad spend waste in PPC campaigns
+* Supports content and blogging strategy
+* Gives insight into market demand and competition
+
+💊Use Keyword Research Tools
+👉Find real search data using tools like:
+
+`Free Tools	                          Paid Tools
+Google Keyword                       Planner	SEMrush
+Ubersuggest	                         Ahrefs
+Google Trends	                       Moz Keyword Explorer
+AnswerThePublic                     	KWFinder`
+
+"Apply Keywords in Marketing Strategy"
+* SEO content (blogs, pages)
+* Google Ads (PPC campaigns)
+* Social media posts
+* Product listings and descriptions
+* Website headings and meta tags
