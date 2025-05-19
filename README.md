@@ -513,11 +513,11 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 * In which position
 * And at what cost
 
-`* CPM Model:-(Cost per mile and thousand impressions): The amount you pay for 1,000 ad impressions (views).`
-`* CPC Model:- (Cost per click): You set maximum bids yourself for each keyword.`
-`* CPA Model:- (Cost per Acquisition or action): Google sets bids to get as many conversions as possible at your target cost per action.`
-`* CPV Model:- (Cost per view): The amount you pay each time someone views your video ad.`
-`* CPI Model:- (cost per installation): The amount you pay when a user installs your mobile app after clicking your ad.`
+* CPM Model: (Cost per mile and thousand impressions): The amount you pay for 1,000 ad impressions (views).
+* CPC Model: (Cost per click): You set maximum bids yourself for each keyword.
+* CPA Model:- (Cost per Acquisition or action): Google sets bids to get as many conversions as possible at your target cost per action.
+* CPV Model: (Cost per view): The amount you pay each time someone views your video ad.
+* CPI Model: (cost per installation): The amount you pay when a user installs your mobile app after clicking your ad.
 
 **🧱 Structure of Google Ads (Hierarchical Format)**
 * Google Ads is organized in three main levels:
