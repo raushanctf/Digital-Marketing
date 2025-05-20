@@ -570,9 +570,11 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 2. `Callout Extensions`- Add short, non-clickable phrases highlighting benefits or features.
 3. `Structured Snippet Extensions`- Show specific features or categories of your product/service.
 4. `Call Extensions`- Add a clickable phone number to your ad.
-5. `Location Extensions- Show your business address with a map link.
-6. Affiliate Location Extensions- Used by brands to show nearby retailers that sell your product.
-7. Price Extensions- Display the price of specific products or services.
-8. App Extensions- Link directly to your mobile app for download.
-9. Promotion Extensions- Highlight limited-time offers, discounts, or special deals.
+5. `Location Extensions`- Show your business address with a map link.
+6. `Affiliate Location Extensions`- Used by brands to show nearby retailers that sell your product.
+7. `Price Extensions`- Display the price of specific products or services.
+8. `App Extensions`- Link directly to your mobile app for download.
+9. `Promotion Extensions`- Highlight limited-time offers, discounts, or special deals.
+
+
 
