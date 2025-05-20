@@ -519,7 +519,7 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 * CPV Model: (Cost per view): The amount you pay each time someone views your video ad.
 * CPI Model: (cost per installation): The amount you pay when a user installs your mobile app after clicking your ad.
 
-**🧱 Structure of Google Ads (Hierarchical Format)**
+# 🧱 Structure of Google Ads (Hierarchical Format)**
 * Google Ads is organized in three main levels:
 
 1. 🔲 Account
@@ -537,3 +537,21 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 * Location targeting
 * Start/end dates
 * Ad scheduling
+
+3. 🗂️ Ad Groups
+* Each campaign has one or more ad groups.
+* An ad group:
+   * Groups related keywords
+   * Shows specific ads based on those keywords
+* You define the target keywords and match types.
+* Example: In a campaign for sweets, you may have:
+   * Ad Group 1: "Diwali Sweets" → Keywords like diwali mithai, buy festive sweets
+
+4. 📢 Ads
+* The actual ads that appear to users (text, image, or video).
+* Each ad includes:
+   * Headline
+   * Description
+   * Display URL
+   * Final URL (landing page)
+   * Optional: Sitelinks, Callouts, Structured Snippets
