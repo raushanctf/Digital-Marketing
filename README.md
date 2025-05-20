@@ -522,12 +522,12 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 # 🧱 Structure of Google Ads (Hierarchical Format)**
 * Google Ads is organized in three main levels:
 
-1. 🔲 Account
+1. 🔲 **Account**
 * This is your overall Google Ads account.
 * Linked to your email, billing, and business settings.
 * Each advertiser has one or more ad accounts.
 
-2. 📂 Campaigns
+2. 📂 **Campaigns**
 * A campaign contains one or more ad groups.
 * You define:
 * Goal (e.g., sales, leads, traffic)
@@ -538,7 +538,7 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 * Start/end dates
 * Ad scheduling
 
-3. 🗂️ Ad Groups
+3. 🗂️ **Ad Groups**
 * Each campaign has one or more ad groups.
 * An ad group:
    * Groups related keywords
@@ -547,7 +547,7 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
 * Example: In a campaign for sweets, you may have:
    * Ad Group 1: "Diwali Sweets" → Keywords like diwali mithai, buy festive sweets
 
-4. 📢 Ads
+4. 📢 **Ads**
 * The actual ads that appear to users (text, image, or video).
 * Each ad includes:
    * Headline
@@ -555,3 +555,12 @@ Getting high-quality backlinks from other websites is the core of off-page SEO.
    * Display URL
    * Final URL (landing page)
    * Optional: Sitelinks, Callouts, Structured Snippets
+     
+5. 🔑 **Keywords (for Search Campaigns)**
+* Keywords trigger ads based on search intent.
+* Use match types:
+   * Broad Match (buy sweets online)
+   * Phrase Match ("buy sweets online")
+   * Exact Match ([buy sweets online])
+
+
